@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AlvinPix&style=flat-square&color=cc0000)
 
-<img width="40%" align="right" alt="Github" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.icegif.com%2Fwp-content%2Fuploads%2F2023%2F05%2Ficegif-567.gif&f=1&nofb=1&ipt=6378e80db91013573d114f58f697fc3158f5c2250e4387e7d5f9647f5fa3458c&ipo=images" />
+<img width="15%" align="right" alt="Github" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.icegif.com%2Fwp-content%2Fuploads%2F2023%2F05%2Ficegif-567.gif&f=1&nofb=1&ipt=6378e80db91013573d114f58f697fc3158f5c2250e4387e7d5f9647f5fa3458c&ipo=images" />
 
 <p>In constant learning, passionate about computing, automating things and creating software, your favorite linuxcero, experiences with debian-based distributions and arch.</p>
 
