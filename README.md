@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AlvinPix&style=flat-square&color=cc0000)
 
-<img width="15%" align="right" alt="Github" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.icegif.com%2Fwp-content%2Fuploads%2F2023%2F05%2Ficegif-567.gif&f=1&nofb=1&ipt=6378e80db91013573d114f58f697fc3158f5c2250e4387e7d5f9647f5fa3458c&ipo=images" />
+<img width="23%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" />
 
 <p>In constant learning, passionate about computing, automating things and creating software, your favorite linuxcero, experiences with debian-based distributions and arch.</p>
 
@@ -10,3 +10,7 @@
 - 🎓 I'm a self-taught student.
 - 🔍 I'm currently working on my repositories: [bspwm](https://github.com/AlvinPix/bspwm), [ghOst]()
 - 📧 How to contact me: [QrWhatsapp](https://www.mediafire.com/view/rdzrr10vsn4oal3/IMG_1637.jpeg/file)
+
+### Tech Stacks. ⚒️
+
+- https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
