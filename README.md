@@ -8,9 +8,5 @@
 
 - 📚 I'm currently learning **bash-scripting** and **git**.
 - 🎓 I'm a self-taught student.
-- 🔍 I'm currently working on my repositories: [bspwm](https://github.com/AlvinPix/bspwm), [ghOst]()
+- 🔍 I'm currently working on my repositories: [bspwm](https://github.com/AlvinPix/bspwm), [ghOst]().
 - 📧 How to contact me: [QrWhatsapp](https://www.mediafire.com/view/rdzrr10vsn4oal3/IMG_1637.jpeg/file)
-
-### Tech Stacks. ⚒️
-
-- https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
