@@ -5,7 +5,7 @@
 - _💀 Welcome everyone to my user profile. ➜ [ghSer](https://github.com/Usergh0st)_
 - _📫 How to reach me: ➜ [Email](mailto:usergh0stmail@proton.me)_
 
-#### _More about me dear visitor_ 👀
+#### _More about me dear visitor._ 👀
 
 ```yaml
 name: Usergh0st
